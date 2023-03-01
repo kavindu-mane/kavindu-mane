@@ -1,4 +1,4 @@
-## <p align ="center">Hi, I'm Kavindu Manahara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> </p>
+## <p align ="center">Hi, I'm Kavindu Manahara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "kavindu-mane" width="35"> </p>
 
 <div align = "center">
     <img src = "https://github.com/kavindu-mane/kavindu-mane/blob/main/Code%20typing-bro.svg" alt= "kavindu-mane" width="500"/>
@@ -6,13 +6,14 @@
 
 🌱 ***I’m currently learning React JS  , Java  , Flutter , Laravel***
 
-### 🌐 Connect With Me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mane.on.fb) &nbsp; &nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavindu_m_wanniarachchi) &nbsp; &nbsp; 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavindu-wanniarachchi) &nbsp; &nbsp;
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kavindu_mane) 
+### Connect With Me:
 
-### 💻 Tech Stack:
+* [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mane.on.fb) &nbsp; &nbsp;
+* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavindu_m_wanniarachchi) &nbsp; &nbsp; 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavindu-wanniarachchi) &nbsp; &nbsp;
+* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kavindu_mane) 
+
+### Languages & Tools:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) &nbsp;
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp;
@@ -38,7 +39,7 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white)
 
 
-### 📊 GitHub Stats:
+### GitHub Statistics:
 
 <div align="center">
     <table>
