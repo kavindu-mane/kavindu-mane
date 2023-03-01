@@ -8,10 +8,10 @@
 
 ### Connect With Me:
 
-* [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mane.on.fb) &nbsp; &nbsp;
-* [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavindu_m_wanniarachchi) &nbsp; &nbsp; 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kavindu-wanniarachchi) &nbsp; &nbsp;
-* [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kavindu_mane) 
+* [![Facebook](https://img.shields.io/badge/Facebook-Kavindu%20M%20Wanniarachchi-%231877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/mane.on.fb) &nbsp; &nbsp;
+* [![Instagram](https://img.shields.io/badge/Instagram-Kavindu%20M%20Wanniarachchi-%23E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/kavindu_m_wanniarachchi) &nbsp; &nbsp; 
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kavindu%20M%20Wanniarachchi-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kavindu-wanniarachchi) &nbsp; &nbsp;
+* [![Twitter](https://img.shields.io/badge/Twitter-Kavindu%20M%20Wanniarachchi-%231DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/kavindu_mane) 
 
 ### Languages & Tools:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) &nbsp;
