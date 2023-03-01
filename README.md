@@ -61,4 +61,4 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-mane&label=Profile%20views&color=00979D&style=flat" alt="kavindu-mane" /> </p>
 
 <!-- Wakatime stats -->
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kavindu-mane)
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kavindu_mane)
