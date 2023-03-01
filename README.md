@@ -36,12 +36,29 @@
 
 ### 📊 GitHub Stats:
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kavindu-mane&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="kavindu-mane" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu-mane&theme=blue-green&hide_border=false" alt="kavindu-mane" /></p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-mane&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="kavindu-mane" /></p>
-    
+<div align="center">
+    <table>
+        <tr>
+            <td align="right">
+                <img src="https://github-readme-stats.vercel.app/api?username=kavindu-mane&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="kavindu-mane" />
+            </td>
+            <td rowspan="2">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-mane&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" alt="kavindu-mane" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu-mane&theme=blue-green&hide_border=false" alt="kavindu-mane" />
+            </td>
+        </tr>
+    </table>
+</div>
+ <br>
 
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kavindu-mane&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="kavindu-mane" /></p>
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-mane&label=Profile%20views&color=00979D&style=flat" alt="kavindu-mane" /> </p>
+
+<!-- Wakatime stats -->
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kavindu-mane)
