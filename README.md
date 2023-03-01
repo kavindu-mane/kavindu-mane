@@ -66,4 +66,5 @@
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-mane&label=Profile%20views&color=00979D&style=flat" alt="kavindu-mane" /> </p>
 
-<!-- Wakatime stats -->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
