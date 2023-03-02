@@ -64,7 +64,6 @@
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kavindu-mane&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="kavindu-mane" /></p>
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kavindu-mane&label=Profile%20views&color=00979D&style=flat" alt="kavindu-mane" /> </p>
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-27%20mins-blue)
