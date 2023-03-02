@@ -8,10 +8,10 @@
 
 ### Connect With Me:
 <div align="center">
-    <a href"https://facebook.com/mane.on.fb">yqsxsejg</a>
-    <a href"https://instagram.com/kavindu_m_wanniarachchi">&nbsp; &nbsp;<img src="https://img.shields.io/badge/Instagram-Kavindu%20M%20Wanniarachchi-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="kavindu-mane"/></a>
-    <br><a href"https://linkedin.com/in/kavindu-wanniarachchi"><img src="https://img.shields.io/badge/LinkedIn-Kavindu%20M%20Wanniarachchi-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>
-    <a href"https://twitter.com/kavindu_mane">&nbsp; &nbsp;<img src="https://img.shields.io/badge/Twitter-Kavindu%20M%20Wanniarachchi-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="kavindu-mane"/></a>
+    <a href="https://facebook.com/mane.on.fb"><img src="https://img.shields.io/badge/Facebook-Kavindu%20M%20Wanniarachchi-%231877F2?style=flat&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+    <a href="https://instagram.com/kavindu_m_wanniarachchi"><img src="https://img.shields.io/badge/Instagram-Kavindu%20M%20Wanniarachchi-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="kavindu-mane"/></a><br>
+    <a href="https://linkedin.com/in/kavindu-wanniarachchi"><img src="https://img.shields.io/badge/LinkedIn-Kavindu%20M%20Wanniarachchi-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>&nbsp; &nbsp;
+    <a href="https://twitter.com/kavindu_mane"><img src="https://img.shields.io/badge/Twitter-Kavindu%20M%20Wanniarachchi-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="kavindu-mane"/></a>
 </div>
 
 ### Languages & Tools:
