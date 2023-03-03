@@ -20,4 +20,4 @@ jobs:
           SHOW_OS: "True"
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "True"
-
+          UPDATED_DATE_FORMAT: "dd/mm/yyyy"
