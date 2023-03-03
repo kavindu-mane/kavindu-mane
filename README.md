@@ -140,5 +140,5 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on dd/mm/yyyy UTC
+ Last Updated on dd/mm/yyyy
 <!--END_SECTION:waka-->
