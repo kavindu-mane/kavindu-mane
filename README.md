@@ -61,7 +61,7 @@
 </div>
  <br>
 
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kavindu-mane&theme=radical&no-frame=false&no-bg=false&column=7&margin-w=5" alt="kavindu-mane" /></p>
+<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kavindu-mane&theme=radical&no-frame=false&no-bg=false&margin-w=5" alt="kavindu-mane" /></p>
 
 ---
 
