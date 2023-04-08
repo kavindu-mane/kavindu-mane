@@ -66,9 +66,9 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-165%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-167%20hrs%2021%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-44-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-39-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-119.2%20thousand%20lines%20of%20code-blue)
 
@@ -111,17 +111,17 @@ Sunday                   56 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               15 hrs 5 mins       ████████████████░░░░░░░░░   62.44 % 
-HTML                     5 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   24.16 % 
-CSS                      2 hrs 8 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
-JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
-XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+JavaScript               16 hrs 36 mins      ████████████████░░░░░░░░░   64.12 % 
+HTML                     6 hrs 2 mins        ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+CSS                      2 hrs 9 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON                     49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+XML                      9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 9 mins       █████████████████████████   100.00 % 
+VS Code                  25 hrs 53 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    24 hrs 9 mins       █████████████████████████   100.00 % 
+Linux                    25 hrs 53 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -137,7 +137,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 07/04/2023 01:40:22 UTC
+ Last Updated on 08/04/2023 01:39:22 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
