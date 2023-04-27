@@ -58,11 +58,9 @@
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kavindu-mane&theme=radical&no-frame=false&no-bg=false&margin-w=5" alt="kavindu-mane" /></p>
 
 ---
-
+![Profile Views](https://komarev.com/ghpvc/?username=kavindu-mane&color=blue&style=flat)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2058%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-42-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-141.5%20thousand%20lines%20of%20code-blue)
 
