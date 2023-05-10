@@ -135,3 +135,4 @@ C                        1 repo              ██░░░░░░░░░�
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=react-percentage-bar&show_owner=true&theme=blue-green)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=Visitors-Counter&show_owner=true&theme=blue-green)
