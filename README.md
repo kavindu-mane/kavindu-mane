@@ -60,7 +60,7 @@
 ---
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-299%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-303%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-143.3%20thousand%20lines%20of%20code-blue)
 
@@ -103,13 +103,15 @@ Sunday                   87 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               37 mins             █████████████████████████   100.00 % 
+TypeScript               3 hrs 35 mins       ███████████████████████░░   90.88 % 
+JavaScript               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  3 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    37 mins             █████████████████████████   100.00 % 
+Linux                    3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -125,7 +127,7 @@ C                        1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/05/2023 01:48:45 UTC
+ Last Updated on 18/05/2023 01:46:42 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
