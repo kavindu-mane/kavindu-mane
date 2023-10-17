@@ -60,7 +60,7 @@
 ---
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-756%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-757%20hrs%2020%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-336.5%20thousand%20lines%20of%20code-blue)
 
@@ -103,14 +103,19 @@ Sunday                   178 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               0 secs              █████████████████████░░░░   83.64 % 
-Markdown                 0 secs              ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+Java                     37 mins             ███████████████████████░░   93.97 % 
+XML                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+Android Studio           39 mins             █████████████████████████   98.48 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 
 💻 Operating System: 
-Linux                    0 secs              █████████████████████████   100.00 % 
+Windows                  39 mins             █████████████████████████   98.48 % 
+Linux                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -126,7 +131,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/10/2023 01:33:45 UTC
+ Last Updated on 17/10/2023 01:32:17 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
