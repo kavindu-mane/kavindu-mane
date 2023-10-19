@@ -14,22 +14,22 @@
     <a href="https://twitter.com/kavindu_mane"><img src="https://img.shields.io/badge/Twitter-Kavindu%20M%20Wanniarachchi-%231DA1F2?style=flat&logo=twitter&logoColor=white" alt="kavindu-mane"/></a>
 </div>
 
-### Languages & Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) &nbsp;
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) &nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) &nbsp;
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) &nbsp;
-![PHP](https://img.shields.io/badge/php-%239999FF.svg?style=flat&logo=php&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) &nbsp;
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) &nbsp;
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) &nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) &nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%232770e6.svg?style=flat&logo=tailwindcss&logoColor=white) &nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) &nbsp;
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) &nbsp;
-![Android](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%2361DAFB) &nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) &nbsp;
+### Languages , Frameworks & Tools:
+![C](https://img.shields.io/badge/c-1B2430.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-1B2430.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
+![Python](https://img.shields.io/badge/python-1B2430.svg?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
+![Java](https://img.shields.io/badge/java-1B2430.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
+![PHP](https://img.shields.io/badge/php-1B2430.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;
+![HTML5](https://img.shields.io/badge/html5-1B2430.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
+![CSS3](https://img.shields.io/badge/css3-1B2430.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
+![MySQL](https://img.shields.io/badge/mysql-1B2430.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
+![Firebase](https://img.shields.io/badge/firebase-1B2430.svg?style=for-the-badge&logo=firebase) &nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-1B2430.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-1B2430.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) &nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-1B2430.svg?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
+![React](https://img.shields.io/badge/react-1B2430.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![Android](https://img.shields.io/badge/android-1B2430.svg?style=for-the-badge&logo=android&logoColor=%2361DAFB) &nbsp;
+![Figma](https://img.shields.io/badge/figma-1B2430.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
 
 ### GitHub Statistics:
 
