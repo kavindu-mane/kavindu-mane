@@ -4,7 +4,7 @@
     <img src = "https://github.com/kavindu-mane/kavindu-mane/blob/main/Code%20typing-bro.svg" alt= "kavindu-mane" width="500"/>
 </div>
 
-🌱 &ensp; ***I’m currently learning React JS  , Java  , Flutter , Django***
+🌱 &ensp; ***I’m currently learning React JS  , Java  , Flutter , Django , Next.js***
 
 ### Connect With Me:
 <div align="center">
@@ -28,6 +28,7 @@
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1B2430.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-1B2430.svg?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![React](https://img.shields.io/badge/react-1B2430.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
+![Next](https://img.shields.io/badge/next.js-1B2430.svg?style=for-the-badge&logo=next.js&logoColor=white) &nbsp;
 ![Android](https://img.shields.io/badge/android-1B2430.svg?style=for-the-badge&logo=android&logoColor=%2361DAFB) &nbsp;
 ![Flutter](https://img.shields.io/badge/flutter-1B2430.svg?style=for-the-badge&logo=flutter&logoColor=%2342A5F5) &nbsp;
 ![Django](https://img.shields.io/badge/django-1B2430.svg?style=for-the-badge&logo=django&logoColor=white) &nbsp;
