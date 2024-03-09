@@ -60,7 +60,7 @@
 ---
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C242%20hrs%2051%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C243%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-450.9%20thousand%20lines%20of%20code-blue)
 
@@ -103,16 +103,17 @@ Sunday                   233 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               26 mins             ███████████████████████░░   93.39 % 
-CSS                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               2 hrs 8 mins        ████████████████████████░   95.33 % 
+Python                   4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-VS Code                  28 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 15 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    28 mins             █████████████████████████   100.00 % 
+Linux                    2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -128,7 +129,7 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2024 01:29:19 UTC
+ Last Updated on 09/03/2024 01:26:02 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
