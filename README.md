@@ -59,6 +59,8 @@
 <p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kavindu-mane&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="kavindu-mane" /></p>
 
 ---
+[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavindu-mane.svg)](https://user-badge.committers.top/sri_lanka_private/kavindu-mane)
+
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C352%20hrs%2027%20mins-blue)
