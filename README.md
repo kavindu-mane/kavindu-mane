@@ -63,13 +63,15 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C363%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C364%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-964.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 414.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 1,912 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -104,17 +106,17 @@ Sunday                   486 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-PHP                      3 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   37.53 % 
-TypeScript               3 hrs 31 mins       ████████░░░░░░░░░░░░░░░░░   33.30 % 
-Python                   1 hr 39 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
-Makefile                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.95 % 
+PHP                      3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   32.89 % 
+TypeScript               3 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.18 % 
+Python                   2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.47 % 
+Makefile                 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 34 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 4 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    10 hrs 34 mins      █████████████████████████   100.00 % 
+Linux                    12 hrs 4 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -130,7 +132,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/11/2024 01:57:36 UTC
+ Last Updated on 09/11/2024 01:54:01 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
