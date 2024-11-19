@@ -106,16 +106,13 @@ Sunday                   486 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               1 hr 46 mins        █████████████████░░░░░░░░   66.16 % 
-PHP                      41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-Text                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 40 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -131,7 +128,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 18/11/2024 02:11:49 UTC
+ Last Updated on 19/11/2024 02:09:29 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
