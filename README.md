@@ -63,7 +63,7 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C391%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C396%20hrs%2010%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-964.3%20thousand%20lines%20of%20code-blue)
 
@@ -106,17 +106,17 @@ Sunday                   486 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               21 hrs 5 mins       ██████████████████████░░░   87.93 % 
-TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-TSConfig                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-JSON                     23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
-Prisma                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+JavaScript               21 hrs 5 mins       ██████████████████░░░░░░░   73.79 % 
+Python                   3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+TypeScript               52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+JSON                     33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+TSConfig                 24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-VS Code                  23 hrs 59 mins      █████████████████████████   100.00 % 
+VS Code                  28 hrs 35 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    23 hrs 59 mins      █████████████████████████   100.00 % 
+Linux                    28 hrs 35 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +132,7 @@ HTML                     4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2024 02:11:23 UTC
+ Last Updated on 26/11/2024 02:10:22 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
