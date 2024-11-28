@@ -4,7 +4,7 @@
     <img src = "https://github.com/kavindu-mane/kavindu-mane/blob/main/Code%20typing-bro.svg" alt= "kavindu-mane" width="500"/>
 </div>
 
-🌱 &ensp; ***I’m currently learning React JS  , Hono  , Flutter , Django , Next.js***
+🌱 &ensp; ***I’m currently learning React JS  , Flutter , .Net , Next.js***
 
 ### Connect With Me:
 <div align="center">
