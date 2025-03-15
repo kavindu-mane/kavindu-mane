@@ -63,7 +63,7 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C728%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C728%20hrs%2052%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -106,11 +106,11 @@ Sunday                   567 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               1 hr 25 mins        █████████████░░░░░░░░░░░░   51.46 % 
-JSON                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.49 % 
+JavaScript               1 hr 25 mins        █████████████░░░░░░░░░░░░   51.41 % 
+JSON                     40 mins             ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
+Python                   20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
 HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+CSV                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
 VS Code                  2 hrs 46 mins       █████████████████████████   100.00 % 
@@ -132,7 +132,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/03/2025 02:04:41 UTC
+ Last Updated on 15/03/2025 02:02:05 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
