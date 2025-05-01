@@ -63,7 +63,7 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C871%20hrs%2042%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C877%20hrs%2040%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.7%20million%20lines%20of%20code-blue)
 
@@ -106,17 +106,17 @@ Sunday                   567 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               34 hrs 51 mins      ███████████████████████░░   93.02 % 
-JavaScript               1 hr 57 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-JSON                     12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+TypeScript               34 hrs 48 mins      ███████████████████████░░   92.82 % 
+JavaScript               1 hr 58 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 Prisma                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🔥 Editors: 
-VS Code                  37 hrs 28 mins      █████████████████████████   100.00 % 
+VS Code                  37 hrs 30 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    37 hrs 28 mins      █████████████████████████   100.00 % 
+Linux                    37 hrs 30 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +132,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/04/2025 02:16:51 UTC
+ Last Updated on 01/05/2025 02:26:57 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
