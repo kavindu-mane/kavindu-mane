@@ -63,7 +63,7 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C073%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C079%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.8%20million%20lines%20of%20code-blue)
 
@@ -106,17 +106,17 @@ Sunday                   594 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               23 hrs 16 mins      ██████████████████░░░░░░░   72.46 % 
-JavaScript               6 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
+TypeScript               28 hrs 21 mins      ██████████████████████░░░   88.33 % 
+JavaScript               1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 PHP                      40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-CSS                      32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
-JSON                     31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+JSON                     36 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+Other                    32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  32 hrs 6 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    32 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    32 hrs 6 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -132,7 +132,7 @@ C#                       1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2025 02:24:47 UTC
+ Last Updated on 04/06/2025 02:24:05 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
