@@ -4,8 +4,6 @@
     <img src = "https://github.com/kavindu-mane/kavindu-mane/blob/main/Code%20typing-bro.svg" alt= "kavindu-mane" width="500"/>
 </div>
 
-🌱 &ensp; ***I’m currently learning React JS  , Flutter , DotNet , Next.js***
-
 ### Connect With Me:
 <div align="center">
     <a href="https://facebook.com/mane.on.fb"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>
