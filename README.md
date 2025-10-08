@@ -13,7 +13,6 @@
 </div>
 
 ### Languages , Frameworks & Tools:
-![C](https://img.shields.io/badge/c-1B2430.svg?style=for-the-badge&logo=c&logoColor=white) &nbsp;
 ![JavaScript](https://img.shields.io/badge/javascript-1B2430.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
 ![TypeScript](https://img.shields.io/badge/typescript-1B2430.svg?style=for-the-badge&logo=typescript&logoColor=%2342A5F5) &nbsp;
 ![Python](https://img.shields.io/badge/python-1B2430.svg?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
@@ -22,16 +21,11 @@
 ![HTML5](https://img.shields.io/badge/html5-1B2430.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/css3-1B2430.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-1B2430.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
-![Firebase](https://img.shields.io/badge/firebase-1B2430.svg?style=for-the-badge&logo=firebase) &nbsp;
-![Bootstrap](https://img.shields.io/badge/bootstrap-1B2430.svg?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-1B2430.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) &nbsp;
 ![NodeJS](https://img.shields.io/badge/node.js-1B2430.svg?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
 ![React](https://img.shields.io/badge/react-1B2430.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
 ![Next](https://img.shields.io/badge/next.js-1B2430.svg?style=for-the-badge&logo=next.js&logoColor=white) &nbsp;
-![Android](https://img.shields.io/badge/android-1B2430.svg?style=for-the-badge&logo=android&logoColor=%2361DAFB) &nbsp;
-![Flutter](https://img.shields.io/badge/flutter-1B2430.svg?style=for-the-badge&logo=flutter&logoColor=%2342A5F5) &nbsp;
-![Django](https://img.shields.io/badge/django-1B2430.svg?style=for-the-badge&logo=django&logoColor=white) &nbsp;
-![Figma](https://img.shields.io/badge/figma-1B2430.svg?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
+![Nest](https://img.shields.io/badge/nest.js-1B2430.svg?style=for-the-badge&logo=nestjs&logoColor=%23ea2845) &nbsp;
 
 ### GitHub Statistics:
 
