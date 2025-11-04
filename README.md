@@ -55,15 +55,13 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C891%20hrs%2055%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 577.3 kB Used in GitHub's Storage 
+> 📦 577.4 kB Used in GitHub's Storage 
  > 
-> 🏆 783 Contributions in the Year 2025
+> 🏆 789 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -71,46 +69,6 @@
  > 
 > 🔑 35 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3720 commits        ████████░░░░░░░░░░░░░░░░░   30.28 % 
-🌆 Daytime                2510 commits        █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-🌃 Evening                4211 commits        █████████░░░░░░░░░░░░░░░░   34.27 % 
-🌙 Night                  1846 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   1396 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-Tuesday                  3147 commits        ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
-Wednesday                1952 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-Thursday                 1759 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-Friday                   1639 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
-Saturday                 1206 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.82 % 
-Sunday                   1188 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.67 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-TypeScript               10 hrs 34 mins      ███████████░░░░░░░░░░░░░░   44.85 % 
-YAML                     4 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-JavaScript               2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Markdown                 1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Bash                     1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 33 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Linux                    23 hrs 33 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -124,7 +82,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/11/2025 02:25:24 UTC
+ Last Updated on 04/11/2025 02:19:49 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
