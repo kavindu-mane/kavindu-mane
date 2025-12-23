@@ -55,7 +55,7 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C165%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C169%20hrs%2053%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-5.9%20million%20lines%20of%20code-blue)
 
@@ -98,17 +98,17 @@ Sunday                   1126 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               30 hrs 42 mins      ███████████████████████░░   93.92 % 
-JavaScript               58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+TypeScript               30 hrs 49 mins      ███████████████████████░░   93.29 % 
+JavaScript               1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
+Markdown                 21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 Bash                     18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-Markdown                 13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+JSON                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-VS Code                  32 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  33 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    32 hrs 41 mins      █████████████████████████   100.00 % 
+Linux                    33 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2025 02:36:47 UTC
+ Last Updated on 23/12/2025 02:31:12 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
