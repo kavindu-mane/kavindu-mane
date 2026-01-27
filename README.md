@@ -55,7 +55,7 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C360%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C367%20hrs%2012%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -98,17 +98,17 @@ Sunday                   1203 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               17 hrs              ███████████████░░░░░░░░░░   58.51 % 
-TypeScript               8 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.07 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
-CSS                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-Other                    36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+JavaScript               26 hrs 32 mins      ███████████████████░░░░░░   76.36 % 
+TypeScript               5 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.75 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+CSS                      44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
+Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  34 hrs 45 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    29 hrs 4 mins       █████████████████████████   100.00 % 
+Linux                    34 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2026 02:46:51 UTC
+ Last Updated on 27/01/2026 02:41:58 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
