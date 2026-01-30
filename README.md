@@ -55,7 +55,7 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C382%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C386%20hrs%2056%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.17%20million%20lines%20of%20code-blue?style=flat)
 
@@ -63,7 +63,7 @@
 
 > 📦 561.7 kB Used in GitHub's Storage 
  > 
-> 🏆 232 Contributions in the Year 2026
+> 🏆 235 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -98,17 +98,17 @@ Sunday                   1203 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               24 hrs 26 mins      ██████████████████░░░░░░░   73.82 % 
-TypeScript               6 hrs 33 mins       █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-CSS                      39 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-Other                    25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+JavaScript               25 hrs 12 mins      ███████████████████░░░░░░   74.17 % 
+TypeScript               6 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+CSS                      59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
+Other                    28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
 
 🔥 Editors: 
-VS Code                  33 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  33 hrs 58 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    33 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    33 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -124,7 +124,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/01/2026 03:12:16 UTC
+ Last Updated on 30/01/2026 03:13:17 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
