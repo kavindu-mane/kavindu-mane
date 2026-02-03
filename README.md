@@ -55,6 +55,8 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C401%20hrs%2052%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.18%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -96,17 +98,17 @@ Sunday                   1204 commits        ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-JavaScript               24 hrs 45 mins      ██████████████████░░░░░░░   70.98 % 
-TypeScript               8 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
-YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.22 % 
-CSS                      24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
+JavaScript               19 hrs 17 mins      ████████████████░░░░░░░░░   65.51 % 
+TypeScript               8 hrs 13 mins       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
+Other                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+CSS                      27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+YAML                     25 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  34 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  29 hrs 27 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    34 hrs 52 mins      █████████████████████████   100.00 % 
+Linux                    29 hrs 27 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -122,7 +124,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 02/02/2026 03:26:04 UTC
+ Last Updated on 03/02/2026 03:19:47 UTC
 <!--END_SECTION:waka-->
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
