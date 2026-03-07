@@ -1,15 +1,12 @@
 ## <p align ="center">Hi, I'm Kavindu Manahara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "kavindu-mane" width="35"> </p>
 
-<div align = "center">
-    <img src = "https://github.com/kavindu-mane/kavindu-mane/blob/main/Code%20typing-bro.svg" alt= "kavindu-mane" width="500"/>
-</div>
-
 ### Connect With Me:
 <div align="center">
     <a href="https://facebook.com/mane.on.fb"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>
     <a href="https://instagram.com/kavindu_m_wanniarachchi"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kavindu-mane"/></a>
     <a href="https://linkedin.com/in/kavindu-wanniarachchi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>
     <a href="https://twitter.com/kavindu_mane"><img src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="kavindu-mane"/></a>
+    <a href="https://kavindu.me"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkavindu.me&up_message=Visit&style=for-the-badge" alt="https://kavindu.me"/></a>
 </div>
 
 ### Languages , Frameworks & Tools:
@@ -26,29 +23,6 @@
 ![React](https://img.shields.io/badge/react-1B2430.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
 ![Next](https://img.shields.io/badge/next.js-1B2430.svg?style=for-the-badge&logo=next.js&logoColor=white) &nbsp;
 ![Nest](https://img.shields.io/badge/nest.js-1B2430.svg?style=for-the-badge&logo=nestjs&logoColor=%23ea2845) &nbsp;
-
-### GitHub Statistics:
-
-<div align="center">
-    <table>
-        <tr>
-            <td align="right">
-                <img src="https://github-readme-stats.vercel.app/api?username=kavindu-mane&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false" alt="kavindu-mane" />
-            </td>
-            <td rowspan="2">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kavindu-mane&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&langs_count=8" alt="kavindu-mane" />
-            </td>
-        </tr>
-        <tr>
-            <td>
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=kavindu-mane&theme=blue-green&hide_border=false" alt="kavindu-mane" />
-            </td>
-        </tr>
-    </table>
-</div>
- <br>
-
-<p align="center"><img align="center" src="https://github-profile-trophy.vercel.app/?username=kavindu-mane&theme=radical&no-frame=false&no-bg=false&margin-w=5&margin-h=5&column=4" alt="kavindu-mane" /></p>
 
 ---
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavindu-mane.svg)](https://user-badge.committers.top/sri_lanka_private/kavindu-mane)
@@ -126,8 +100,3 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 
  Last Updated on 07/03/2026 03:04:37 UTC
 <!--END_SECTION:waka-->
-
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=CreateME&show_owner=true&theme=blue-green)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=react-percentage-bar&show_owner=true&theme=blue-green)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=Visitors-Counter&show_owner=true&theme=blue-green)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kavindu-mane&repo=Eliger&show_owner=true&theme=blue-green)
