@@ -25,7 +25,7 @@
 ![Nest](https://img.shields.io/badge/nest.js-1B2430.svg?style=for-the-badge&logo=nestjs&logoColor=%23ea2845) &nbsp;
 
 ---
-[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavindu-mane.svg)](https://user-badge.committers.top/sri_lanka_private/kavindu-mane)
+<!--[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavindu-mane.svg)](https://user-badge.committers.top/sri_lanka_private/kavindu-mane)-->
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
