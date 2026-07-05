@@ -29,9 +29,9 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C164%20hrs%2029%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C173%20hrs%2057%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.92%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.94%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -48,21 +48,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4591 commits        ███████░░░░░░░░░░░░░░░░░░   28.56 % 
-🌆 Daytime                3281 commits        █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-🌃 Evening                5662 commits        █████████░░░░░░░░░░░░░░░░   35.22 % 
-🌙 Night                  2543 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
+🌞 Morning                4591 commits        ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+🌆 Daytime                3281 commits        █████░░░░░░░░░░░░░░░░░░░░   20.38 % 
+🌃 Evening                5678 commits        █████████░░░░░░░░░░░░░░░░   35.27 % 
+🌙 Night                  2547 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.82 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1681 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
-Tuesday                  3731 commits        ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-Wednesday                2278 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
-Thursday                 2248 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-Friday                   1971 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Saturday                 1687 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-Sunday                   2481 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+Monday                   1683 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+Tuesday                  3733 commits        ██████░░░░░░░░░░░░░░░░░░░   23.19 % 
+Wednesday                2278 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
+Thursday                 2252 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Friday                   1971 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+Saturday                 1689 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
+Sunday                   2491 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
 ```
 
 
@@ -72,18 +72,18 @@ Sunday                   2481 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               32 hrs 12 mins      ███████████████░░░░░░░░░░   59.13 % 
-Markdown                 8 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
-Other                    7 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Python                   1 hr 17 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
+TypeScript               32 hrs 8 mins       ████████████████░░░░░░░░░   62.79 % 
+Markdown                 6 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Other                    6 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+YAML                     1 hr 46 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+PHP                      1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 
 🔥 Editors: 
-Claude Code              34 hrs 2 mins       ████████████████░░░░░░░░░   62.51 % 
-VS Code                  20 hrs 25 mins      █████████░░░░░░░░░░░░░░░░   37.49 % 
+Claude Code              31 hrs 40 mins      ███████████████░░░░░░░░░░   61.86 % 
+VS Code                  19 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   38.14 % 
 
 💻 Operating System: 
-Linux                    54 hrs 27 mins      █████████████████████████   100.00 % 
+Linux                    51 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -99,5 +99,5 @@ Java                     7 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 04/07/2026 01:08:02 UTC
+ Last Updated on 05/07/2026 01:13:19 UTC
 <!--END_SECTION:waka-->
