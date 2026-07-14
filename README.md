@@ -29,7 +29,7 @@
 
 ![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C211%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%2C216%20hrs%205%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.21%20million%20lines%20of%20code-blue?style=flat)
 
@@ -48,21 +48,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4660 commits        ███████░░░░░░░░░░░░░░░░░░   28.38 % 
-🌆 Daytime                3332 commits        █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
-🌃 Evening                5805 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
-🌙 Night                  2625 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+🌞 Morning                4660 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+🌆 Daytime                3332 commits        █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+🌃 Evening                5807 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
+🌙 Night                  2627 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   1730 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Tuesday                  3782 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Tuesday                  3783 commits        ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
 Wednesday                2278 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.87 % 
-Thursday                 2273 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
-Friday                   2026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-Saturday                 1774 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Sunday                   2559 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
+Thursday                 2274 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.84 % 
+Friday                   2026 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.33 % 
+Saturday                 1775 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Sunday                   2560 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
 ```
 
 
@@ -72,19 +72,19 @@ Sunday                   2559 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Other                    8 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
-YAML                     8 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-TypeScript               7 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Markdown                 5 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Bash                     2 hrs 22 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.05 % 
+YAML                     8 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Other                    8 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+TypeScript               7 hrs               ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
+Markdown                 5 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
+Java                     3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
 
 🔥 Editors: 
-Claude Code              25 hrs 39 mins      ████████████████░░░░░░░░░   65.25 % 
-VS Code                  13 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   34.75 % 
+Claude Code              27 hrs 32 mins      █████████████████░░░░░░░░   66.66 % 
+VS Code                  13 hrs 46 mins      ████████░░░░░░░░░░░░░░░░░   33.34 % 
 
 💻 Operating System: 
-Linux                    25 hrs 7 mins       ████████████████░░░░░░░░░   63.88 % 
-Mac                      14 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   36.12 % 
+Linux                    21 hrs 44 mins      █████████████░░░░░░░░░░░░   52.65 % 
+Mac                      19 hrs 33 mins      ████████████░░░░░░░░░░░░░   47.35 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -100,5 +100,5 @@ Java                     7 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/07/2026 01:05:08 UTC
+ Last Updated on 14/07/2026 01:02:57 UTC
 <!--END_SECTION:waka-->
