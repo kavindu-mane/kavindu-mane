@@ -1,131 +1,120 @@
-## <p align ="center">Hi, I'm Kavindu Manahara <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt= "kavindu-mane" width="35"> </p>
+# Hi, I'm Kavindu Manahara 👋
 
-### Connect With Me:
-<div align="center">
-    <a href="https://facebook.com/mane.on.fb"><img src="https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="kavindu-mane"/></a>
-    <a href="https://instagram.com/kavindu_m_wanniarachchi"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="kavindu-mane"/></a>
-    <a href="https://linkedin.com/in/kavindu-wanniarachchi"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="kavindu-mane"/></a>
-    <a href="https://twitter.com/kavindu_mane"><img src="https://img.shields.io/badge/Twitter-%23000000?style=for-the-badge&logo=x&logoColor=white" alt="kavindu-mane"/></a>
-    <a href="https://kavindu.me"><img src="https://img.shields.io/website?url=https%3A%2F%2Fkavindu.me&up_message=Visit&style=for-the-badge" alt="https://kavindu.me"/></a>
-</div>
+### Software Engineer | Full-Stack Web Developer | React & Next.js Specialist
 
-### Languages , Frameworks & Tools:
-![JavaScript](https://img.shields.io/badge/javascript-1B2430.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) &nbsp;
-![TypeScript](https://img.shields.io/badge/typescript-1B2430.svg?style=for-the-badge&logo=typescript&logoColor=%2342A5F5) &nbsp;
-![Python](https://img.shields.io/badge/python-1B2430.svg?style=for-the-badge&logo=python&logoColor=ffdd54) &nbsp;
-![Java](https://img.shields.io/badge/java-1B2430.svg?style=for-the-badge&logo=openjdk&logoColor=white) &nbsp;
-![PHP](https://img.shields.io/badge/php-1B2430.svg?style=for-the-badge&logo=php&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/html5-1B2430.svg?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![CSS3](https://img.shields.io/badge/css3-1B2430.svg?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![MySQL](https://img.shields.io/badge/mysql-1B2430.svg?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-1B2430.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) &nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-1B2430.svg?style=for-the-badge&logo=node.js&logoColor=white) &nbsp;
-![React](https://img.shields.io/badge/react-1B2430.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) &nbsp;
-![Next](https://img.shields.io/badge/next.js-1B2430.svg?style=for-the-badge&logo=next.js&logoColor=white) &nbsp;
-![Nest](https://img.shields.io/badge/nest.js-1B2430.svg?style=for-the-badge&logo=nestjs&logoColor=%23ea2845) &nbsp;
+I'm a Software Engineer from Sri Lanka focused on building **modern, scalable, and maintainable web applications**.
+
+I specialize in **React, Next.js, NestJS, TypeScript, Spring Boot, Laravel and Node.js**, with experience across frontend development, backend APIs, databases, DevOps, and cloud infrastructure.
+
+I enjoy turning ideas and complex requirements into clean, performant, and production-ready software.
 
 ---
-<!--[![committers.top badge](https://user-badge.committers.top/sri_lanka_private/kavindu-mane.svg)](https://user-badge.committers.top/sri_lanka_private/kavindu-mane)-->
 
-![Profile Views](https://github-vistors-counter.onrender.com/github?username=kavindu-mane)
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%2C265%20hrs%2022%20mins-blue?style=flat)
+## About Me
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-624%20hrs%207%20mins-blue?style=flat)
+* Software Engineer specializing in modern web technologies
+* Strong focus on **React, Next.js, NestJS, TypeScript & JavaScript**
+* Experienced in building full-stack applications and REST APIs
+* Passionate about responsive UI/UX and clean frontend architecture
+* Experience with PostgreSQL, MongoDB, Prisma and other databases
+* Comfortable with VPS, Linux, Docker, Nginx and deployment workflows
+* Experience with CI/CD, Git, GitHub and GitLab
+* Experienced with e-commerce and **Shopify** integrations
+* Interested in AI-powered applications, automation and marketing technology
+* Available for freelance and software development projects
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.83%20million%20lines%20of%20code-blue?style=flat)
+---
 
-**🐱 My GitHub Data** 
+## Technical Skills
 
-> 📦 568.8 kB Used in GitHub's Storage 
- > 
-> 🏆 1,194 Contributions in the Year 2026
- > 
-> 💼 Opted to Hire
- > 
-> 📜 41 Public Repositories 
- > 
-> 🔑 35 Private Repositories 
- > 
-**I'm a Night 🦉** 
+### Frontend
 
-```text
-🌞 Morning                4909 commits        ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-🌆 Daytime                3716 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌃 Evening                6287 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
-🌙 Night                  3031 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
-```
-📅 **I'm Most Productive on Tuesday** 
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* Tailwind CSS
+* Vite
+* Vitest
 
-```text
-Monday                   1863 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-Tuesday                  4010 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
-Wednesday                2687 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Thursday                 2458 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Friday                   2266 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Saturday                 2059 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Sunday                   2600 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-```
+### Backend
 
+* Node.js
+* NestJS
+* Express
+* PHP & Laravel
+* Java & Spring Boot
 
-📊 **This Week I Spent My Time On** 
+### Databases & ORMs
 
-```text
-🕑︎ Time Zone: Asia/Colombo
+* PostgreSQL
+* MySQL
+* MongoDB
+* Prisma
 
-💬 Programming Languages: 
-TypeScript               11 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   30.78 % 
-Markdown                 4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-Other                    4 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Python                   3 hrs 58 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-Java                     3 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+### DevOps & Infrastructure
 
-🔥 Editors: 
-Claude Code              23 hrs              ████████████████░░░░░░░░░   62.75 % 
-VS Code                  13 hrs 39 mins      █████████░░░░░░░░░░░░░░░░   37.25 % 
+* Linux
+* Docker
+* Nginx
+* Git
+* Kubernetes (K3S Prefer)
+* GitHub with GitHub Actions
+* GitLab with GitLab CI
 
-💻 Operating System: 
-Mac                      19 hrs 22 mins      █████████████░░░░░░░░░░░░   52.82 % 
-Linux                    17 hrs 18 mins      ████████████░░░░░░░░░░░░░   47.18 % 
-```
+### Other Technologies
 
-🤖 **AI Coding This Week** 
+* REST APIs & API Integrations
+* Shopify & E-commerce
+* CI/CD Pipelines
+* Cloud & VPS Deployment
+* Marketing Automation
+* AI Integrations
+* Performance Optimization
 
-```text
-⏱ AI Coding Time: 31 hrs 30 mins (85.88%)
+---
 
-✍️ 18,740 lines written by AI, 286 lines written by hand (98.5% AI-written)
+## Professional Experience
 
-🔤 1,269,838,934 Input Tokens, 2,662,014 Output Tokens
+### Associate Software Engineer - iLabs (PVT) Ltd.
 
-💵 $2666.10 Estimated AI Cost This Week
+Working on production-grade web applications and marketing technology platforms, contributing across frontend, backend, databases, APIs, and infrastructure.
 
-🧠 558 AI Sessions, 1268 AI Prompts
+### Freelance Software Developer
 
-Sonnet                   20,819 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Providing custom web development solutions through freelance platforms, with a strong focus on React, Next.js, NestJS, TypeScript, responsive UI, full-stack applications, and deployment.
 
-🔎 AI Coding Insights:
-🤖 AI-Driven — 98.5% of written lines came from AI
-📚 Verbose Prompter — average 4,684 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 2.24% of changed lines were hand-edited
-```
+## Find Me Online
 
-**I Mostly Code in TypeScript** 
+| Platform                | Link                                                                                        |
+| -------------------- -- | ------------------------------------------------------------------------------------------- |
+| Portfolio               | [kavindu.me](https://kavindu.me)                                                            |
+| LinkedIn                | [linkedin.com/in/kavindu-wanniarachchi](https://www.linkedin.com/in/kavindu-wanniarachchi/) |
+| GitHub                  | [github.com/kavindu-mane](https://github.com/kavindu-mane)                                  |
+| Fiverr                  | [fiverr.com/kavindu_mane](https://www.fiverr.com/kavindu_mane)                              |
+| Google Business Profile | [View Business Profile](https://share.google/KvBtGLooYebMnHEAq)                             |
+| Email                   | [contact@kavindu.me](mailto:contact@kavindu.me)                                             |
 
-```text
-TypeScript               62 repos            █████████████░░░░░░░░░░░░   52.10 % 
-JavaScript               21 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-PHP                      10 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-Java                     7 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-Jupyter Notebook         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-```
+---
 
+## Freelance & Collaboration
 
+I'm available for:
 
+* Full-stack web application development
+* React & Next.js development
+* Custom websites and landing pages
+* Shopify and e-commerce development
+* API development & integrations
+* VPS deployment and server setup
+* Performance optimization
+* AI-powered web applications
+* Long-term development partnerships
 
- Last Updated on 08/08/2026 00:50:35 UTC
-<!--END_SECTION:waka-->
+### Let's build something great together 🚀
+
+If you have an idea, project, or technical challenge, feel free to reach out.
+
+* **Portfolio:** [kavindu.me](https://kavindu.me) 
+* **Fiverr:** [fiverr.com/kavindu_mane](https://www.fiverr.com/kavindu_mane) 
+* **Email:** [contact@kavindu.me](mailto:contact@kavindu.me) 
