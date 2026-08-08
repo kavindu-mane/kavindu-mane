@@ -87,7 +87,7 @@ Providing custom web development solutions through freelance platforms, with a s
 ## Find Me Online
 
 | Platform                | Link                                                                                        |
-| -------------------- -- | ------------------------------------------------------------------------------------------- |
+| ----------------------- | ------------------------------------------------------------------------------------------- |
 | Portfolio               | [kavindu.me](https://kavindu.me)                                                            |
 | LinkedIn                | [linkedin.com/in/kavindu-wanniarachchi](https://www.linkedin.com/in/kavindu-wanniarachchi/) |
 | GitHub                  | [github.com/kavindu-mane](https://github.com/kavindu-mane)                                  |
