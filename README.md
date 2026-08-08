@@ -111,7 +111,7 @@ I'm available for:
 * AI-powered web applications
 * Long-term development partnerships
 
-### Let's build something great together 🚀
+### Let's build something great together
 
 If you have an idea, project, or technical challenge, feel free to reach out.
 
