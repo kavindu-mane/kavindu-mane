@@ -89,6 +89,7 @@ Providing custom web development solutions through freelance platforms, with a s
 | Platform                | Link                                                                                        |
 | ----------------------- | ------------------------------------------------------------------------------------------- |
 | Portfolio               | [kavindu.me](https://kavindu.me)                                                            |
+| Blog                    | [blog.kavindu.me](https://blog.kavindu.me)                                                            |
 | LinkedIn                | [linkedin.com/in/kavindu-wanniarachchi](https://www.linkedin.com/in/kavindu-wanniarachchi/) |
 | GitHub                  | [github.com/kavindu-mane](https://github.com/kavindu-mane)                                  |
 | Fiverr                  | [fiverr.com/kavindu_mane](https://www.fiverr.com/kavindu_mane)                              |
@@ -115,6 +116,7 @@ I'm available for:
 
 If you have an idea, project, or technical challenge, feel free to reach out.
 
-* **Portfolio:** [kavindu.me](https://kavindu.me) 
+* **Portfolio:** [kavindu.me](https://kavindu.me)
+* **Blog:** [blog.kavindu.me](https://blog.kavindu.me)
 * **Fiverr:** [fiverr.com/kavindu_mane](https://www.fiverr.com/kavindu_mane) 
 * **Email:** [contact@kavindu.me](mailto:contact@kavindu.me) 
